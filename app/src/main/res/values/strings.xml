@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login_Reg</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_intents">Intents_Activity</string>
+</resources>
